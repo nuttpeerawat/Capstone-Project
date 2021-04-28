@@ -12,7 +12,25 @@ Since the pandemic of covid 19 many people have decreased their visits to restau
 
 ------------------------------------------------------------------------ 
 ## Data Dictionary 
-| Feature           | Type         | Description                                | | :---------------: | :----------: | -----------------------------------------: | |busines categories | object       | categories of restaurant       | |business city        | object         | city of restaurants | |business id      | object        | id of the restaurant  | |business latitude        | float        | latitude of restaurant             | |business longitude        | float        | longitude of restaurant             | |business name         | object          | restaurant name | |business_review_count | int          | total review of that restaurant | |business stars      | int          | restaurant star              | |date     | object          | review date             | |review id          | int          | reviewer id | |review average stars | float       | average rating of all reviewer give to all restaurant | |stars       | float        | business stars/rating              | |text      | object          | review text            | |user_id           | object       | ID of user                            | |categories       | object       | categories of restaurant                           | |dominant_topic         | object       | dominant topic of each review that got doing from topic modeling                            | |topic_keywords        | object       | keyword of review text that got from doing topic modeling                            | 
+| Feature           | Type         | Description                                | 
+| :---------------: | :----------: | -----------------------------------------: | 
+|busines categories | object       | categories of restaurant       | 
+|business city        | object         | city of restaurants | 
+|business id      | object        | id of the restaurant  | 
+|business latitude        | float        | latitude of restaurant             | 
+|business longitude        | float        | longitude of restaurant             | 
+|business name         | object          | restaurant name | 
+|business_review_count | int          | total review of that restaurant | 
+|business stars      | int          | restaurant star              | 
+|date     | object          | review date             | 
+|review id          | int          | reviewer id | 
+|review average stars | float       | average rating of all reviewer give to all restaurant | 
+|stars       | float        | business stars/rating              | 
+|text      | object          | review text            | 
+|user_id           | object       | ID of user                            | 
+|categories       | object       | categories of restaurant                           | 
+|dominant_topic         | object       | dominant topic of each review that got doing from topic modeling                            | 
+|topic_keywords        | object       | keyword of review text that got from doing topic modeling                            | 
 ------------------------------------------------------------------------ 
 ## Conclusions and Recommendations 
 
