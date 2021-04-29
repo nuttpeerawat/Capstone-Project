@@ -8,7 +8,7 @@
 ------------------------------------------------------------------------ 
 ## Problem Statement 
 
-	Since the pandemic of covid 19 many people have decreased their visits to restaurants and have turned to online food delivery services for their daily meals, causing many restaurants to run out of customers and orders from online services. As a result, some of them had to shut down. This project aims to increase the number of customer and online order to the restaurants by using the recommendation system to recommend new user to the restaurant.
+Since the pandemic of covid 19 many people have decreased their visits to restaurants and have turned to online food delivery services for their daily meals, causing many restaurants to run out of customers and orders from online services. As a result, some of them had to shut down. This project aims to increase the number of customer and online order to the restaurants by using the recommendation system to recommend new user to the restaurant.
 
 
 ------------------------------------------------------------------------ 
